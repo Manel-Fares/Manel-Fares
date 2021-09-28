@@ -3,7 +3,7 @@
 I am Manel, a final year engineering student specialised in Data Science. I am passionate about new technologies and artificial intelligence and I am always ready to reveal new challenges.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manel-Fares&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manel-Fares&count_private=true&show_icons=true&theme=radical)
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
