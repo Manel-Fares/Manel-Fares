@@ -7,7 +7,7 @@ I am a final year engineering student specialized in Data Science. I am passiona
 
 ## Technologies
 
-| ![python](image/python.png)  | ![R](R.jfif)  | ![Django](django.png)  | ![Rasa](rasa.png)  | ![Sklearn](sklearn.png) | ![Tensorflow](tensorflow.png) |
+| ![python](./image/python.png)  | ![R](./image/R.jfif)  | ![Django](./image/django.png)  | ![Rasa](./image/rasa.png)  | ![Sklearn](./image/sklearn.png) | ![Tensorflow](./image/tensorflow.png) |
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
