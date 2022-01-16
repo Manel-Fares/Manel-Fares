@@ -5,11 +5,28 @@
 
 I am a final year engineering student specialized in Data Science. I am passionate about new technologies and artificial intelligence and I am always ready to reveal new challenges.
 
-## Technologies
-
-| ![python](./image/python.png)  | ![R](./image/R.jfif)  | ![Django](./image/django.png)  | ![Rasa](./image/rasa.png)  | ![Sklearn](./image/sklearn.png) | ![Tensorflow](./image/tensorflow.png) |
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+
+## Technologies
+
+
+<table>
+  <tr>
+    <td> <img src="image/Python.png"  width = 100px height = 100px ></td>
+
+    <td><img src="image/R.jfif" width = 100px height = 100px ></td>
+
+    <td><img src="image/django.png"  width = 100px height = 100px ></td>
+
+    <td><img src="image/sklearn.png"  width = 100px height = 100px ></td>
+    
+    <td><img src="image/rasa logo.png"  width = 100px height = 100px ></td>
+    
+    <td><img src="image/tensorflow.png"  width = 100px height = 100px ></td>
+  </tr>
+</table>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manel-Fares&count_private=true&show_icons=true&theme=radical)
 )](https://github.com/anuraghazra/github-readme-stats)
