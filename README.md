@@ -15,15 +15,15 @@ I am a final year engineering student specialized in Data Science. I am passiona
   <tr>
     <td> <img src="image/Python.png"  alt="1"  width = 100px height = 100px ></td>
 
-    <td><img src="image/R.jfif"  alt="2"  width = 100px height = 100px ></td>
+    <td>kk <img src="image/R.jfif"  alt="2"  width = 100px height = 100px ></td>
 
-    <td><img src="image/django.png"  alt="3"   width = 100px height = 100px ></td>
+    <td> <img src="image/django.png"  alt="3"   width = 100px height = 100px ></td>
 
-    <td><img src="image/sklearn.png"  alt="4"  width = 100px height = 100px ></td>
+    <td> <img src="image/sklearn.png"  alt="4"  width = 100px height = 100px ></td>
     
-    <td><img src="image/rasa logo.png"  alt="5"  width = 100px height = 100px ></td>
+    <td> <img src="image/rasa logo.png"  alt="5"  width = 100px height = 100px ></td>
     
-    <td><img src="image/tensorflow.png"  alt="6"  width = 100px height = 100px ></td>
+    <td> <img src="image/tensorflow.png"  alt="6"  width = 100px height = 100px ></td>
   </tr>
 </table>
 
