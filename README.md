@@ -1,6 +1,15 @@
 ### Hi there 👋
+<p align="center">
+  <img src="image/intro.jpg">
+</p>
 
-I am Manel, a final year engineering student specialized in Data Science. I am passionate about new technologies and artificial intelligence and I am always ready to reveal new challenges.
+
+I am a final year engineering student specialized in Data Science. I am passionate about new technologies and artificial intelligence and I am always ready to reveal new challenges.
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+
+
+<a  href="https://www.linkedin.com/in/manel-fares/" target="_blank"><i class="fa fa-linkedin"></i></a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manel-Fares&count_private=true&show_icons=true&theme=radical)
