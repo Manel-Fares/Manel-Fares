@@ -14,8 +14,9 @@ I am a final year engineering student specialized in Data Science. I am passiona
 <table>
   <tr>
     <td> <img src="image/Python.png"  alt="1"  width = 100px height = 100px ></td>
+    <td> <img src="image/R.jfif"  alt="1"  width = 100px height = 100px ></td>
 
-    <td>kk <img src="image/R.jfif"  alt="2"  width = 100px height = 100px ></td>
+
 
     <td> <img src="image/django.png"  alt="3"   width = 100px height = 100px ></td>
 
