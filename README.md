@@ -13,23 +13,23 @@ I am a final year engineering student specialized in Data Science. I am passiona
 
 <table>
   <tr>
-    <td> <img src="image/Python.png"  width = 100px height = 100px ></td>
+    <td> <img src="image/Python.png"  alt="1"  width = 100px height = 100px ></td>
 
-    <td><img src="image/R.jfif" width = 100px height = 100px ></td>
+    <td><img src="image/R.jfif"  alt="2"  width = 100px height = 100px ></td>
 
-    <td><img src="image/django.png"  width = 100px height = 100px ></td>
+    <td><img src="image/django.png"  alt="3"   width = 100px height = 100px ></td>
 
-    <td><img src="image/sklearn.png"  width = 100px height = 100px ></td>
+    <td><img src="image/sklearn.png"  alt="4"  width = 100px height = 100px ></td>
     
-    <td><img src="image/rasa logo.png"  width = 100px height = 100px ></td>
+    <td><img src="image/rasa logo.png"  alt="5"  width = 100px height = 100px ></td>
     
-    <td><img src="image/tensorflow.png"  width = 100px height = 100px ></td>
+    <td><img src="image/tensorflow.png"  alt="6"  width = 100px height = 100px ></td>
   </tr>
 </table>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manel-Fares&count_private=true&show_icons=true&theme=radical)
-)](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
